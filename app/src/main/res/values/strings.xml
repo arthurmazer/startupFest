@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">StartupFest</string>
+    <string name="choose_your_startup">Escolha sua StartUp!</string>
+    <string name="results">Resultados</string>
+
+    <string name="category_proposal">Propostas</string>
+    <string name="category_presentation">Apresentação / Pitch</string>
+    <string name="category_development">Desenvolvimento</string>
 </resources>
